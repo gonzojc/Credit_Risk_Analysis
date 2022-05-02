@@ -35,4 +35,4 @@ The balanced accuracy score is 93%, the precision score is 1% and the recall sco
 
 
 ### Credit Risk Summary
-Based on the performed analysis, recommend using the Easy Ensemble Classifier Model to determine the credit risks as it shows the highest accuracy score of 92%.
+Based on the performed analysis, recommend using the Easy Ensemble Classifier Model to determine the credit risks as it shows the highest accuracy score of 93%.
